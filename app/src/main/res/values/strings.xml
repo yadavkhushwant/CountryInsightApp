@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Country Insight</string>
+    <string name="get_full_insight_of_any_country_of_the_world">Get Full Insight of Any Country of The World</string>
+    <string name="show_details">show details</string>
+    <string name="select_country">Select Country</string>
+    <string name="loading">Loading</string>
+    <string name="back">Back</string>
+    <string name="country_flag">Country Flag</string>
+    <string name="independence_status">Independence status</string>
+    <string name="independent">Independent</string>
+    <string name="un_member">UN Member</string>
+    <string name="landlocked">Landlocked</string>
+    <string name="landlocked_status">Landlocked status</string>
+    <string name="un_member_status">UN Member Status</string>
+    <string name="general_information">General Information</string>
+    <string name="official_name">Official Name</string>
+    <string name="capital">Capital</string>
+    <string name="population">Population</string>
+    <string name="area">Area</string>
+    <string name="geographic_information">Geographic Information</string>
+    <string name="continent">Continent</string>
+    <string name="region">Region</string>
+    <string name="subregion">Subregion</string>
+    <string name="timezones">Timezones</string>
+    <string name="country_map">Country on Map</string>
+    <string name="coat_of_arms">Coat Of Arms</string>
+    <string name="no">No</string>
+    <string name="search">Search</string>
+    <string name="demonyms">Demonyms</string>
+    <string name="latitude_longitude">Latitude | Longitude</string>
+    <string name="border_countries">Border Countries</string>
+    <string name="languages">Languages</string>
+    <string name="currency">Currency</string>
+</resources>
